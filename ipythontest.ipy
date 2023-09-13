@@ -1,0 +1,5 @@
+# coding: utf-8
+print('hello world)
+print('hello world')
+3*6
+%save mycode -r ipython test
